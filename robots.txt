@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://evupfitter.com/sitemap.xml
